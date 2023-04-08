@@ -19,7 +19,7 @@ The below Story was created in JIRA and describes the functional specifications 
 
 # 1 Testing section
 
-## 1.1 Test Planning
+## 1.1 Sectiunea de testare
 
 The Test Plan is designed to describe all details of testing for the Dependants module from the OrangeHRM application. 
 
